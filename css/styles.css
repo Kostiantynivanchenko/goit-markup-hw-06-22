@@ -231,3 +231,19 @@ img {
         display:none;
     }
 }
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #FFFFFF;
+    color: #434455;
+}
+.first-section {
+    background-color: #2e2f42;
+    padding: 188px 0 188px;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/office.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    max-width: 320px;
+    height:432px;
+    margin: 0 auto;
+}
