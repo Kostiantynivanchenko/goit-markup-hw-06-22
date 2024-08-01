@@ -29,11 +29,6 @@ h2 {
 
 
 
-.adv-list-item {
-    width: calc((100% - 72px) / 4);
-}
-
-
 
 
 .third-section {
@@ -93,11 +88,6 @@ h2 {
     margin-top: 8px;
 }
 
-.icons-cosial-medias {
-    width: 40px;
-    height: 40px;
-
-}
 
 .instagram-icons-link {
     width: 100%;
