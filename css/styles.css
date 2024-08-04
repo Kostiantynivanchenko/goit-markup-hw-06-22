@@ -758,7 +758,7 @@ body {
 }
 
 .section {
-    padding: 96px 16px 96px 16px;
+    padding: 96px 0px 96px 0px;
     background-color: #fff;
 }
 
@@ -821,7 +821,7 @@ body {
 
 @media screen and (min-width: 768px) {
     .section {
-        padding: 96px 16px 96px 16px;
+        padding: 96px 0px 96px 0px;
         background-color: #fff;
     }
 
