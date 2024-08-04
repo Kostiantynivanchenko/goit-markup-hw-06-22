@@ -450,7 +450,7 @@ body {
 
 .first-section {
     background-color: #2e2f42;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/office.jpg);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/office-mob-2x.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -509,6 +509,7 @@ body {
 @media screen and (min-width: 768px) {
     .first-section {
         padding: 112px 0 112px;
+        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/office-tab-2x.jpg);
     }
 
     .title-first-section {
@@ -1073,6 +1074,7 @@ body {
 
     .social-media-footer-paragraph {
         margin-bottom: 16px;
+        text-align: left;
     }
 
     .subscribe-paragraph {
